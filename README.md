@@ -39,13 +39,10 @@ socials
 [![Discord](https://img.shields.io/badge/Discord-Server-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/hVBYDDk)
 
 ---
-personal language tier list
-- **S**: Odin, C#
-- **A**: Go, C, GLSL
-- **B**: Python, Zig, Rust
-- **C**: Dart, Java
-- **D**: HTML, JavaScript, CSS
-- **F**: C++
+
+favourite langagues: `Odin, C#, C, Go`
+
+also dabbled in: `GLSL, Python, Rust, Zig, Java, C++, JavaScript, HTML, CSS, Dart`
 
 ---
 
