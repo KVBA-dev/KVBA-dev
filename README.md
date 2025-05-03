@@ -19,7 +19,7 @@ tools/tech i use
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 
-[![Linux Mint](https://img.shields.io/badge/i_use_linux_btw?logo=linuxmint&logoColor=8D4)](#)
+![Linux Mint](https://img.shields.io/badge/i_use_linux_btw-5c5c5c?style=flat&logo=Linux%20Mint&logoColor=87CF3E)
 
 tools/tech i've tried in the past
 
@@ -39,29 +39,13 @@ socials
 [![Discord](https://img.shields.io/badge/Discord-Server-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/invite/hVBYDDk)
 
 ---
-
-Languages I've tried, in order from my most favourite:
-- **Odin** `luv it <3`
-- **C#** `my main, I can do p much anything in it`
-- **Go** `mid, but that's what's great about it`
-- **C** `I love C, I hate compiling C`
-- **GLSL** `basically C for shaders, luv it`
-- **Pyhton** `usually for prototyping`
-- **Dart** `it's alright, but smells too much like java`
-- **Zig** `it's nice but not my cup of tea`
-- **Rust** `im too stupid for it ngl`
-- **Java** `tried modding Minecraft the other day, and Minecraft won`
-- **HTML** `frontend 👎️`
-- **JavaScript** `frontend 👎️`
-- **CSS** `did i say "frontend 👎️" already?`
-- **C++** `no 👎️👎️👎️👎️👎️👎️`
-
----
-
-hot takes:
-- jQuery is nice actually
-- procedural programming all the way
-- webdev somehow managed to get boring and infuriating at the same time
+personal language tier list
+- **S**: Odin, C#
+- **A**: Go, C, GLSL
+- **B**: Python, Zig, Rust
+- **C**: Dart, Java
+- **D**: HTML, JavaScript, CSS
+- **F**: C++
 
 ---
 
