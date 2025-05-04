@@ -40,6 +40,15 @@ socials
 
 ---
 
+some of my cooler projects:
+- [Invar](https://github.com/KVBA-dev/invar) - a game framework for Odin + raylib
+- [Game With Car](https://github.com/KVBA-dev/Game-With-Car) - a racing game in Unity, with car
+- [Game With Karts](https://github.com/KVBA-dev/GameWithKarts) - my diploma project, a kart racing game in Unity
+- [Inventory system](https://github.com/KVBA-dev/inventory) - an inventory system inspired by Minecraft
+- [Achaia](https://github.com/KVBA-dev/Achaia) - a simple HTTP server in C# for those allergic to ASP.NET (me)
+
+---
+
 favourite langagues: `Odin, C#, C, Go`
 
 also dabbled in: `GLSL, Python, Rust, Zig, Java, C++, JavaScript, HTML, CSS, Dart`
