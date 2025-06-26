@@ -49,9 +49,7 @@ some of my cooler projects:
 
 ---
 
-favourite langagues: `Odin, C#, C, Go`
-
-also dabbled in: `GLSL, Python, Rust, Zig, Java, C++, JavaScript, HTML, CSS, Dart`
+favourite langagues: `Odin, GLSL, C#, C, Go`
 
 ---
 
