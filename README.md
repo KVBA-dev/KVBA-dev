@@ -8,7 +8,9 @@
 
 ```
 gamedev | EDM production | comp engineering student | 22 | 🇵🇱
-Odin evangelist, neovim-by-the-way user, webdev despiser, big fan of fragment shaders
+
+Odin evangelist, neovim-by-the-way user, webdev despiser, 
+CEO of HTMX, big fan of fragment shaders
 ```
 
 ![Linux Mint](https://img.shields.io/badge/i_use_linux_btw-5c5c5c?style=flat&logo=Linux%20Mint&logoColor=87CF3E)
