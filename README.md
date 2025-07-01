@@ -6,7 +6,10 @@
 
 ---
 
-```gamedev | EDM production | comp engineering student | 22 | 🇵🇱```
+```
+gamedev | EDM production | comp engineering student | 22 | 🇵🇱
+Odin evangelist, webdev despiser, big fan of fragment shaders
+```
 
 tools/tech i use
 
@@ -50,7 +53,7 @@ some of my cooler projects:
 
 ---
 
-favourite langagues: `Odin, GLSL, C#, C, Go`
+scroll down...
 
 ---
 
