@@ -44,7 +44,8 @@ some of my cooler projects:
 - [Invar](https://github.com/KVBA-dev/invar) - a game framework for Odin + raylib
 - [Game With Car](https://github.com/KVBA-dev/Game-With-Car) - a racing game in Unity, with car
 - [Game With Karts](https://github.com/KVBA-dev/GameWithKarts) - my diploma project, a kart racing game in Unity
-- [Inventory system](https://github.com/KVBA-dev/inventory) - an inventory system inspired by Minecraft
+- [kart-racer-attempt](https://github.com/KVBA-dev/kart-racer-attempt) and [kart-racer-editor](https://github.com/KVBA-dev/kart-racer-editor) - a simple kart raing game and a level editor for it, made using Odin, raylib, and Clay
+- [raylib-gizmo-odin](https://github.com/KVBA-dev/raylib-gizmo-odin) - a port of [raylib-gizmo](https://github.com/cloudofoz/raylib-gizmo) in Odin
 - [Achaia](https://github.com/KVBA-dev/Achaia) - a simple HTTP server in C# for those allergic to ASP.NET (me)
 
 ---
