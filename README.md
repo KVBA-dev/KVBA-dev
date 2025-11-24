@@ -10,7 +10,8 @@
 gamedev | EDM production | comp engineering student | 22 | 🇵🇱
 
 Odin evangelist, neovim-by-the-way user, webdev despiser, 
-CEO of HTMX, big fan of fragment shaders
+CEO of HTMX, big fan of fragment shaders,
+Porter Robinson wannabe, has a chronic skill issue (CSI)
 ```
 
 ![Linux Mint](https://img.shields.io/badge/i_use_linux_btw-5c5c5c?style=flat&logo=Linux%20Mint&logoColor=87CF3E)
