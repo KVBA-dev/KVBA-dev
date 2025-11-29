@@ -2,7 +2,7 @@
 
 # KVBA
 
-✨ profesional idiot ✨
+✨ proffesional idiot ✨
 
 ---
 
