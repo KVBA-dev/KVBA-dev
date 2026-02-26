@@ -1,5 +1,6 @@
 <img align="right" src="https://github.com/KVBA-dev/KVBA-dev/blob/main/kvplanet.gif" width="250px" alt="kvba planetary system">
 
+inż.
 # KVBA
 
 ✨ proffesional idiot ✨
@@ -7,7 +8,7 @@
 ---
 
 ```
-gamedev | EDM production | comp engineering student | 22 | 🇵🇱
+gamedev | EDM production | BSc in comp engineering | 23 | 🇵🇱
 
 Odin evangelist, neovim-by-the-way user, webdev despiser, 
 CEO of HTMX, big fan of fragment shaders,
